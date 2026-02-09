@@ -32,15 +32,16 @@ else:
  
 #vote 
 """age = int(input("Enter your age:"))
-if age >= 20:
+if age >= 18:
     print("you are eligible for vote")
 else:
     print("you are not eligible for vote")"""
     
 #licence
 age = int(input("Enter your age:"))
-if age >= 20:
+if age >= 18:
     print("you are eligible for licence")
 else:
 
     print("you are not eligible for licence")
+
